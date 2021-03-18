@@ -1,5 +1,10 @@
 import psycopg2
 
+"""
+Student naam: Bram van Leusden
+Studentnummer" 1779320
+"""
+
 dbname = "huwebshop"
 dbpassword = "Postpoep"
 
